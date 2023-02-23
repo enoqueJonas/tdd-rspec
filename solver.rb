@@ -1,17 +1,13 @@
 class Solver
-    def factorial(n) 
-        if n < 1 
-            return "Error: Invalid number!"
-        end
+  def factorial(num)
+    return 'Error: Invalid number!' if num < 1
 
-        if n <= 1 
-            return 1
-        end
+    return 1 if num <= 1
 
-        return n * factorial(n-1)
-    end
+    num * factorial(num - 1)
+  end
 
-    def reverse(str)
-        str.reverse
-    end
+  def reverse(str)
+    str.reverse
+  end
 end
