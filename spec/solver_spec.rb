@@ -21,11 +21,18 @@ describe Solver do
   end
 
   context '#fizzbuzz' do
-  it 'Should return fizzbuzz' do
-    solver = Solver.new
-    fizzbuzz = solver.fizzbuzz(15)
+    it 'Should return fizzbuzz' do
+      solver = Solver.new
+      fizzbuzz = solver.fizzbuzz(15)
 
-    expect(fizzbuzz).to eql 'fizzbuzz'
-  end
+      expect(fizzbuzz).to eql 'fizzbuzz'
+    end
+
+    it 'Should return fizz' do
+      solver = Solver.new
+      fizzbuzz = solver.fizzbuzz(3)
+
+      expect(fizzbuzz).to eql 'fizz'
+    end
   end
 end
