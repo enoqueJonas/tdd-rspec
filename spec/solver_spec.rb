@@ -15,6 +15,8 @@ describe Solver do
         it 'Should return a reversed string' do
             solver = Solver.new
             reverse = solver.reverse('hello')
+
+            expect(reverse).to eql 'olleh'
         end
     end
 end

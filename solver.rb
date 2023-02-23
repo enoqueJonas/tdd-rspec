@@ -7,7 +7,11 @@ class Solver
         if n <= 1 
             return 1
         end
-        
+
         return n * factorial(n-1)
+    end
+
+    def reverse(str)
+        str.reverse
     end
 end
