@@ -95,7 +95,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 cd my-folder
-git clone https://github.com/sebalp100/tdd-rspec/
+git clone https://github.com/enoqueJonas/tdd-rspec/
 
 ### Usage
 
@@ -113,7 +113,7 @@ To run the project, execute the following commands in your Ruby terminal:
 
 - GitHub: [@enoqueJonas](https://github.com/enoqueJonas)
 - Twitter: [@enoque_jonas](https://twitter.com/enoque_jonas)
-- LinkedIn: [@Enoque Macanda](https://www.linkedin.com/mwlite/in/enoque-macanda) 
+- LinkedIn: [@Enoque Macanda](https://www.linkedin.com/mwlite/in/enoque-macanda)
 
 👤 **Sebastian Martin**
 
