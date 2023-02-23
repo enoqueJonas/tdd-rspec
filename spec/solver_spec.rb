@@ -19,4 +19,7 @@ describe Solver do
       expect(reverse).to eql 'olleh'
     end
   end
+
+  context '#fizzbuzz' do
+  end
 end
