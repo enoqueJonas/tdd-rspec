@@ -21,5 +21,9 @@ describe Solver do
   end
 
   context '#fizzbuzz' do
+  it 'Should return fizzbuzz' do
+    solver = Solver.new
+    fizzbuzz = solver.fizzbuzz(15)
+  end
   end
 end
