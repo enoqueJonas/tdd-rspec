@@ -24,6 +24,8 @@ describe Solver do
   it 'Should return fizzbuzz' do
     solver = Solver.new
     fizzbuzz = solver.fizzbuzz(15)
+
+    expect(fizzbuzz).to eql 'fizzbuzz'
   end
   end
 end
