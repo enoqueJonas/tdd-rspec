@@ -35,6 +35,13 @@ describe Solver do
       expect(fizzbuzz).to eql 'fizz'
     end
 
+    it 'Should return buzz' do
+      solver = Solver.new
+      fizzbuzz = solver.fizzbuzz(10)
+
+      expect(fizzbuzz).to eql 'buzz'
+    end
+
     it 'Should return number to string' do
       solver = Solver.new
       fizzbuzz = solver.fizzbuzz(7)
