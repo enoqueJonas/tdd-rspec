@@ -18,6 +18,7 @@
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
+    - [Tests](#tests)
     - [Setup](#setup)
     - [Usage](#usage)
   - [👥 Authors ](#-authors-)
@@ -89,6 +90,16 @@ In order to run this project you need:
 - Ruby terminal
 - Github account.
 - Code editor (Visual Studio Code, Atom, etc.)
+
+### Tests
+1 - Install dependencies
+```ruby  
+  $ bundle install
+```
+2- Run tests
+```ruby
+$ rspec spec
+```
 
 ### Setup
 
