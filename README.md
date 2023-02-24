@@ -106,7 +106,7 @@ $ rspec spec
 Clone this repository to your desired folder:
 
 cd my-folder
-git clone https://github.com/sebalp100/tdd-rspec/
+git clone https://github.com/enoqueJonas/tdd-rspec/
 
 ### Usage
 
@@ -124,7 +124,7 @@ To run the project, execute the following commands in your Ruby terminal:
 
 - GitHub: [@enoqueJonas](https://github.com/enoqueJonas)
 - Twitter: [@enoque_jonas](https://twitter.com/enoque_jonas)
-- LinkedIn: [@Enoque Macanda](https://www.linkedin.com/mwlite/in/enoque-macanda) 
+- LinkedIn: [@Enoque Macanda](https://www.linkedin.com/mwlite/in/enoque-macanda)
 
 👤 **Sebastian Martin**
 
@@ -172,6 +172,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
